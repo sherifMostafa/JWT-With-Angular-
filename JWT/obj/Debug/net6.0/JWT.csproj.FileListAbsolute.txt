@@ -32,3 +32,37 @@ D:\Self Trainning Projects\JWT\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagg
 D:\Self Trainning Projects\JWT\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Self Trainning Projects\JWT\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Self Trainning Projects\JWT\JWT\obj\Debug\net6.0\JWT.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\appsettings.Development.json
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\appsettings.json
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\JWT.exe
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\JWT.deps.json
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\JWT.runtimeconfig.json
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\JWT.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\JWT.pdb
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training\JWT-With-Angular-\JWT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.csproj.AssemblyReference.cache
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.AssemblyInfoInputs.cache
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.AssemblyInfo.cs
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.csproj.CoreCompileInputs.cache
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\staticwebassets.build.json
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\staticwebassets.development.json
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\scopedcss\bundle\JWT.styles.css
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.csproj.CopyComplete
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.dll
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\refint\JWT.dll
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.pdb
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\JWT.genruntimeconfig.cache
+E:\Training\JWT-With-Angular-\JWT\obj\Debug\net6.0\ref\JWT.dll
