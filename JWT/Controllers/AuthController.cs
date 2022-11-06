@@ -25,13 +25,11 @@ namespace JWT.Controllers
                 var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("superSecretKey@345"));
                 var signinCredentials = new SigningCredentials(secretKey, SecurityAlgorithms.HmacSha256);
                 var claims = new List<Claim>();
-                claims.Add(new Claim(ClaimTypes.Name, "Sherif"));
-                claims.Add(new Claim(ClaimTypes.Sid, "115"));
                 var tokeOptions = new JwtSecurityToken(
                     issuer: "https://localhost:5000",
                     audience: "https://localhost:5000",
                     claims: claims,
-                    expires: DateTime.Now.AddMinutes(5),
+                    expires: DateTime.Now.AddYears(1),
                     signingCredentials: signinCredentials
                 );
 
